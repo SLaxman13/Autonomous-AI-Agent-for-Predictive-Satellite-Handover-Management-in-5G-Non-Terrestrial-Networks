@@ -1,0 +1,4 @@
+horizon_sec,model_mae,model_rmse,model_r2,baseline_mae,baseline_rmse,improvement_pct
+5,0.325,0.413,0.984,0.465,0.584,30.1
+10,0.354,0.444,0.981,0.633,0.771,44.1
+20,0.394,0.51,0.975,1.052,1.219,62.6

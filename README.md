@@ -2,7 +2,7 @@
 
 An autonomous decision-making agent that predicts satellite link degradation before it happens and proactively manages handovers in a 5G NTN (Non-Terrestrial Network) system — built on real Starlink orbital data, real physics-based RF modeling, and a trained, honestly-evaluated ML forecasting layer.
 
-![Dashboard Screenshot](screenshots/dashboard.png)
+![Dashboard Screenshot](dashboard.png)
 
 ## The Problem
 
